@@ -2,4 +2,4 @@
 
 This is a readme
 
-Delphine
+Delphine : I add a **bold** and *italic* text.
